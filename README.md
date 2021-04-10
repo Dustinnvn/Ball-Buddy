@@ -2,7 +2,7 @@
   <img src="Images/BBlogo.png">
 </p>
 
-<h1 align="center">Ball Buddy</h1>
+<h1 align="center">Ball Buddy :softball: </h1>
 
 
 
@@ -34,7 +34,7 @@ Ball Buddy is a pet ball launcher developed in my senior design class. It is ins
 My main repsonibilites are in charge of designing and coding the ball recovery system. For the chassis design I will be working together with one of my teammates, Jason. I will also be helping on the webapp devlopment by creating a functional backend and database to control the ball recovery system.
 
 
-## Key Features
+## Key Features 
 * Autonomous ball recovery and launch
 * Controllable through an app or webpage
 * 180 degree rotational and launch angles
@@ -54,17 +54,17 @@ The MasterStepper is the current code used to control all 5 stepper motors in th
 
 Utilizing the Arduino for the brute work, I used the Raspberry Pi for the main processing of data. While our software developer worked on setting up a permanent server, I began to develop groundwork Pi code to work with our Arduino. Since I utilized serial communication for the Arduino, I used a usb connection to the Raspberry Pi for both microcontrollers to talk to each other. With communication between the two microcontrollers established, I used the html library in python to create a basic webpage that could send commands to the Pi. This let me access the Pi from a webpage that would send serial data to the arduino which could then relay data back for the Pi to process. The Pi python code was ran on a Raspberry Pi 4
 
-## Materials
+## Materials 
 insert_table
 
 
-## Progress
+## Progress 
 
 insert_png
 
 
 <!-- CONTACT -->
-## Contact
+## Contact 
 
 Dustin Nguyen - dustinnvn@gmail.com
 
